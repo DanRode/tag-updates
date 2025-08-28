@@ -1,0 +1,17 @@
+Cloud Vendor,Cloud Vendor Account Name,Salesforce Id,CatalogName,Correct CatalogName
+Microsoft Azure (Modern Commerce),gbr-containermaintenanceandrepair-devtest,a6dvx0000000ho9yaa,container maintenance and repair,Container Maintenance and Repairs
+Microsoft Azure (Modern Commerce),usa-ctmpro-devtest,a6d6s00000095gjqaq,ctm pro,CTM
+Microsoft Azure (Modern Commerce),usa-lmd-devtest,a6d6s00000095h3qaa,lead management,Engage CRM
+Microsoft Azure (Modern Commerce),usa-lmd-prod,a6d6s00000095h3qaa,lead management,Engage CRM
+Microsoft Azure (Modern Commerce),nld-central-management,a6d6s00000095h3qaa,lead management,Engage CRM
+Microsoft Azure (Modern Commerce),usa-studio-devtest,a6d6s00000095fzqaa,application studio,Property Management X - Application Studio
+Microsoft Azure (Modern Commerce),LeaseXpert,a6d6s00000095fvqaa,amtdirect,ProLease Direct
+Microsoft Azure (Modern Commerce),usa-studio-prod,a6d6s00000095fzqaa,application studio,Property Management X - Application Studio
+Microsoft Azure (Modern Commerce),DEV/QA Environment,a6d6s00000095fvqaa,amtdirect,ProLease Direct
+Microsoft Azure (Modern Commerce),gbr-studio-prod,a6d6s00000095fzqaa,application studio,Property Management X - Application Studio
+Microsoft Azure (Modern Commerce),Build Environment,a6d6s00000095fvqaa,amtdirect,ProLease Direct
+Microsoft Azure (Modern Commerce),usa-agora-dev,a6d6s00000095hgqaq,engage platform,MRI Agora Gateway
+Microsoft Azure (Modern Commerce),aus-studio-prod,a6d6s00000095fzqaa,application studio,Property Management X - Application Studio
+Microsoft Azure (Modern Commerce),usa-ctmpro-prod,a6d6s00000095gjqaq,ctm pro,CTM
+Microsoft Azure (Modern Commerce),LeaseXpert Production,a6d6s00000095fvqaa,amtdirect,ProLease Direct
+Microsoft Azure (Modern Commerce),UAT Environment,a6d6s00000095fvqaa,amtdirect,ProLease Direct
